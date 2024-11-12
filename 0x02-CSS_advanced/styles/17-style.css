@@ -451,7 +451,7 @@ a:active {
 
 .section-footer {
     padding: var(--section-footer-padding);
-    justify-content: var(--section-footer-align);
+    text-align: var(--section-footer-align);
 }
 
 .section-title {
@@ -473,4 +473,8 @@ a:active {
   width: 960px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.footer {
+    padding: var(--footer-padding);
 }
