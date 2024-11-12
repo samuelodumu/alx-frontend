@@ -451,5 +451,5 @@ a:active {
 
 .container {
   width: 960px;
-  align-items: center;
+  justify-content: space-between;
 }
