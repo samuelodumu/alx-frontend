@@ -519,7 +519,7 @@
     margin-right: auto;
   }
 
-  .row {
+  .row::after {
     width: 100%;
     content: none;
     display: table;
