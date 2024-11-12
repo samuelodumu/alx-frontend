@@ -468,7 +468,7 @@ a:active {
   padding: 50% 100%;
 }
 
-.nav > .nav-link:hover {
+.nav .nav-link:hover {
   color: var(--nav-item-link-hover);
 }
 
