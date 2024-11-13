@@ -520,9 +520,9 @@
   }
 
   .row::after {
-    width: 100%;
-    content: none;
+    clear: both;
     display: table;
+    height: auto;
   }
 
   .col-1-3 {
